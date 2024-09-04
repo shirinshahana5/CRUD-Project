@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "630f",
+      "name": "Sreelakshmi",
+      "email": "sreelakshmi@gmail.com"
+    },
+    {
+      "id": "4943",
+      "name": "Chithra shashikumar",
+      "email": "chithra@gmail.com"
+    },
+    {
+      "id": "6b7a",
+      "name": "Shirin Shahana",
+      "email": "shirin@gmail.com"
+    },
+    {
+      "id": "23c6",
+      "name": "Siddharth sr",
+      "email": "sidharth@gmail.com"
+    },
+    {
+      "id": "987d",
+      "name": "Dhiya",
+      "email": "dhiya@gmail.com"
+    },
+    {
+      "id": "5498",
+      "name": "Raj",
+      "email": "raj@gmail.com"
+    }
+  ]
+}
